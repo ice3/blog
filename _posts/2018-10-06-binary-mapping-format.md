@@ -57,7 +57,7 @@ fpa is avaible in bioconda and in cargo.
 
 Ok, so filter match is easy and we have an already available solution. 
 
-## A Binary Alignment Fromat
+## A Binary Alignment Format
 
 <blockquote class="twitter-tweet" data-lang="fr">
 <p lang="en" dir="ltr">Is it time for a Binary Alignment Format that uses integer compression techniques?</p>&mdash; Rayan Chikhi (@RayanChikhi) <a href="https://twitter.com/RayanChikhi/status/1047773219086897153?ref_src=twsrc%5Etfw">4 octobre 2018</a>
